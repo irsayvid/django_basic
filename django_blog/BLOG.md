@@ -1,2 +1,3 @@
-# django_project
-Blog using Django ( Reference - Corey Schafer tutorials yt)
+# django_blog
+
+Blog using Django
